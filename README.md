@@ -1,4 +1,4 @@
-<img src="https://github.com/DeveloperKlausXD/ProfileSettings/blob/main/KlausSenpai.png">
+<img src="https://wallpapercave.com/wp/wp5128415.jpg">
 <br/>
 <br/>
 
