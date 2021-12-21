@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/media/Efw4vTuUwAAvmp6?format=jpg&name=large">
+<img src="https://github.com/DeveloperKlausXD/ProfileSettings/blob/main/KlausBanner.png">
 <br/>
 <br/>
 
