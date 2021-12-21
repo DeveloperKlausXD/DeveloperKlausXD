@@ -2,9 +2,9 @@
 <br/>
 <br/>
 
-## Heyyo, I'm <a href="https://github.com/DeveloperKlausXD" target="_blank">DeveloperKlausXD</a>!
+## <a href="https://instagram.com/whyklaus.xd" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/DeveloperKlausXD/ProfileSettings/blob/main/insta.svg" /> Heyyo, I'm <a href="https://github.com/DeveloperKlausXD" target="_blank">DeveloperKlausXD</a>!
 
-<a href="https://instagram.com/whyklaus.xd" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/DeveloperKlausXD/ProfileSettings/blob/main/insta.svg" />
+
 
 <br />
 <br />
