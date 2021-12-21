@@ -56,4 +56,4 @@
 <br/>
 ---
 
-[![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=developerklausxd&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ba0b0b&icon_color=eba3a3&text_color=eba3a3&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=developerklausxd&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ba0b0b&icon_color=ffffff&text_color=ffffff&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
