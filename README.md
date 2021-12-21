@@ -54,7 +54,11 @@
 [![Spotify](https://novatorem-developerklausxd.vercel.app/api/spotify)](https://open.spotify.com/user/nrecckatgiznx161q9m3ikqru)
   
 <br/>
+<br/>
 
 ### Klaus Senpai Stats ❤️
 
 [![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=developerklausxd&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ba0b0b&icon_color=ffffff&text_color=ffffff&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+  
+<br/>
+<br/>
